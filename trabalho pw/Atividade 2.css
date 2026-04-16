@@ -1,0 +1,27 @@
+nav{
+    background-color: rgb(148, 6, 6);
+}
+aside{
+    background-color: rgb(43, 166, 197);
+    position-area: fixed;
+    flex-direction: column;
+}
+header{
+    background-color: rgb(94, 209, 40);
+    height: 50px;
+}
+section{
+    background-color: rgb(197, 117, 43);
+}
+
+article{
+    background-color: rgb(49, 38, 141);
+    font-size: 15px;
+}
+footer {
+  background-color: #d66c6c;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
